@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+  
+  button {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    background-color: #054772;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  #result {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  

@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  pre {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    white-space: pre-wrap;
+  }
+  
